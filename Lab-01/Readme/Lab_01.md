@@ -1,9 +1,9 @@
 # Data Structure & Algorithm Manual Lab: 01 (Solved)
 ### Index:
-- ### [Lab-01 | Task]()
-- ### [Lab-01 | Assignment]()
+- ### [Lab-01 | Task](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
+- ### [Lab-01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
 ___
-## [Lab: 01 | Task]()
+## [Lab: 01 | Task](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
 Lab Tasks 1:
 -
 Develop Java Class IU_Mark_Sheet with following Constructor and Methods.
@@ -112,8 +112,16 @@ public class IU_Mark_Sheet {
 ### Code Output:
 ```
 ```
+### Code Screen Shots:
+#### main.java:
+![main.java](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Task/Code/main.jpg)
+#### IU_Mark_Sheet.java:
+![IU_Mark_Sheet.java SS1](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Task/Code/ms_ss1.JPG)
+![IU_Mark_Sheet.java SS2](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Task/Code/ms_ss2.JPG)
+### Code Ouput Screen Shot:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Task/Output/output.JPG)
 ___
-## [Lab: 01 | Assignment]()
+## [Lab: 01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
 Assignment:
 -
 Program Statement:
@@ -397,3 +405,18 @@ public class CarPark {
 ### Code Output:
 ```
 ```
+### Code Screen Shots:
+#### CarParManagement.java
+![CarParManagement](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/CarParManagement.JPG)
+#### Vechile.java
+![Vechile_ss01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/Vechile_ss01.JPG)
+![Vechile_ss02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/Vechile_ss02.JPG)
+#### Bike.java
+![Bike](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/Bike.JPG)
+#### Car.java:
+![Car](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/Car.JPG)
+#### CarPark.java
+![CarPark_ss01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/CarPark_ss01.JPG)
+![CarPark_ss02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Code/CarPark_ss02.JPG)
+#### Code Output Screen Shot:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Output/output.JPG)
