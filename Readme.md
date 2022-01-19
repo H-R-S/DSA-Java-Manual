@@ -1,7 +1,7 @@
 # Data Structure & Algorithm Manual (Solved)
 ## WordFile (with ScreenShots) : [DSA_Java_Manual.docs]()
 ### Index:
-- ### [Lab-01]()
+- ### [Lab-01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
 - ### [Lab-02]()
 - ### [Lab-03]()
 - ### [Lab-04]()
@@ -16,7 +16,8 @@
 - ### [Lab-13]()
 - ### [Lab-14]()
 ___
-## [Lab: 01]()
+## [Lab-01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
+### [Lab: 01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
 Lab Tasks 1:
 -
 Develop Java Class IU_Mark_Sheet with following Constructor and Methods.
@@ -126,6 +127,7 @@ public class IU_Mark_Sheet {
 ```
 ```
 ___
+### [Lab: 01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
 Assignment:
 -
 Program Statement:
