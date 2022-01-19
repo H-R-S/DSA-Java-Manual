@@ -1,5 +1,5 @@
 # Data Structure & Algorithm Manual | Lab: 01 Assignment | (Solved)
-## [Lab: 01 | Assignment]()
+## [Lab: 01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
 Assignment:
 -
 Program Statement:
