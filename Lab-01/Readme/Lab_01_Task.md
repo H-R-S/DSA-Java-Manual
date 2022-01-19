@@ -1,5 +1,5 @@
 # Data Structure & Algorithm Manual | Lab: 01 Task | (Solved)
-## [Lab: 01 | Task]()
+## [Lab: 01 | Task](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
 Lab Tasks 1:
 -
 Develop Java Class IU_Mark_Sheet with following Constructor and Methods.
