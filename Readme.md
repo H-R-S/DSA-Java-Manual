@@ -3,25 +3,25 @@
 ### Index:
 - ### [Lab-01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
 - ### [Lab-02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02.md)
-- ### [Lab-03]()
-- ### [Lab-04]()
-- ### [Lab-05]()
-- ### [Lab-06]()
-- ### [Lab-07]()
-- ### [Lab-08]()
-- ### [Lab-09]()
-- ### [Lab-10]()
-- ### [Lab-11]()
-- ### [Lab-12]()
-- ### [Lab-13]()
-- ### [Lab-14]()
+- ### [Lab-03](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-03/Readme/Lab_03.md)
+- ### [Lab-04](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/Readme/Lab_04.md)
+- ### [Lab-05](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-05/Readme/Lab_05.md)
+- ### [Lab-06](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/Readme/Lab_06.md)
+- ### [Lab-07](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/Readme/Lab_07.md)
+- ### [Lab-08](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-08/Readme/Lab_08.md)
+- ### [Lab-09](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/Readme/Lab_09.md)
+- ### [Lab-10](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-10/Readme/Lab_10.md)
+- ### [Lab-11](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-11/Readme/Lab_11.md)
+- ### [Lab-12](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-12/Readme/Lab_12.md)
+- ### [Lab-13](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-13/Readme/Lab_13.md)
+- ### [Lab-14](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-14/Readme/Lab_14.md)
 ___
-## [Lab-01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
+## [Lab: 01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
 ### Index:
 - ### [Lab-01 | Task](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
 - ### [Lab-01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
 ___
-## [Lab: 01 | Task](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
+## [Lab-01 | Task](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Task.md)
 Lab Tasks 1:
 -
 Develop Java Class IU_Mark_Sheet with following Constructor and Methods.
@@ -139,7 +139,7 @@ public class IU_Mark_Sheet {
 ### Code Ouput Screen Shot:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Task/Output/output.JPG)
 ___
-## [Lab: 01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
+## [Lab-01 | Assignment](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01_Assignment.md)
 Assignment:
 -
 Program Statement:
@@ -439,12 +439,12 @@ public class CarPark {
 #### Code Output Screen Shot:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/ScreenShots/Assignment/Output/output.JPG)
 ___
-## [Lab-02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02.md)
+## [Lab: 02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02.md)
 ### Index:
 - ### [Lab-02 | Task_01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 - ### [Lab-02 | Task_02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_02.md)
 ___
-## [Lab: 02 | Task_01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
+## [Lab-02 | Task_01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 Lab Tasks 1:
 •	Develop Method in java which can find the smallest and the largest value from integer Array.
 o	int[] TwoExtreamValue(int A[]).
@@ -593,7 +593,7 @@ public class main {
 ### Code Output Screen Shot:
 ![output]()
 ___
-## [Lab: 02 | Task_02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
+## [Lab-02 | Task_02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 Lab Tasks 2:
 Develop Generic Class which can set Data type of Single dimension array.
 ### Code:
@@ -673,4 +673,301 @@ class Array<E> {
 ![array](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/ScreenShots/Task_02/Code/array.JPG)
 ### Code Output ScreenShot:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/ScreenShots/Task_02/Output/output.JPG)
+___
+## [Lab: 03](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_03.md)
+Task 1: 
+Develop your own ArrayList in Java having following methods:
+•	add ()
+•	remove() 
+•	get()
+•	contain() 
+•	is_empty()
+•	IndexOff()
+•	ToArray()
+•	TrimToSize()
+### Code:
+#### CustomArrayList.java:
+```
+package Task_01;
+
+public class CustomArrayList<T>
+{
+	private T[] array;
+	private int size = 0;
+	public CustomArrayList()
+	{
+		array = (T[]) new Object[2];
+	}
+	public void add(T value)
+	{
+		array[size] = value;
+		size++;
+		if(size==array.length)
+		{
+			T[] newArray = (T[]) new Object[array.length*2];
+			for(int i=0;i<array.length;i++)
+			newArray[i] = array[i];
+			array = newArray;
+		}
+	}
+	public T remove(T value)
+	{
+		for(int i=0;i<size-1;i++)
+		{
+			if(value==array[i])
+				array[i] = array[i+1];
+		}
+		size--;
+		return value;
+	}
+	public int getSize()
+	{
+		return size;
+	}
+	
+	public boolean contain(T value)
+	{
+		for(int i=0;i<size;i++)
+		{
+			if(value==array[i])
+				return true;
+		}
+		return false;
+	}
+	
+	public int indexOff(T value)
+	{
+		for(int i=0;i<size;i++)
+		{
+			if(value==array[i])
+			{
+				return i;
+			}
+		}
+		return -1;
+	}
+	
+	public boolean isEmpty()
+	{
+		if(size==0)
+			return true;
+		else
+			return false;
+	}
+	
+	public T display(int index)
+	{
+		return array[index];
+	}
+}
+```
+#### main.java:
+```
+package Task_01;
+
+public class main {
+	
+	public static void main(String[] args)
+	{
+		CustomArrayList<Integer> ref = new CustomArrayList<Integer>();
+		CustomArrayList<String> ref1 = new CustomArrayList<String>();
+		System.out.println("1st Reference Variable ArrayList: ");
+		ref.add(1);
+		ref.add(2);
+		ref.add(3);
+		ref.add(4);
+		System.out.println("Size of List: "+ref.getSize());
+		System.out.println("Value 3 contains in List: "+ref.contain(3));
+		System.out.println("Removed Value: "+ref.remove(3));
+		System.out.println("Value 2 presents at "+ref.indexOff(2)+" index");
+		
+		for(int i=0;i<ref.getSize();i++)
+			
+			System.out.println("\tValue["+i+"]: "+ref.display(i));
+		
+		System.out.println("2nd Reference Variable: ");
+		ref1.add("Muhammad");
+		ref1.add("Haris");
+		ref1.add("Ali");
+		ref1.add("Ahmed");
+		System.out.println("Size of List: "+ref1.getSize());
+		System.out.println("Haris contains in List: "+ref1.contain("Haris"));
+		System.out.println("Removed Value: "+ref1.remove("Ali"));
+		System.out.println("Shivam presents at "+ref1.indexOff("Ahmed")+" index");
+		
+		for(int i=0;i<ref1.getSize();i++)
+			
+			System.out.println("\t Name["+i+"]: "+ref1.display(i));
+	}
+}
+```
+### Code Output:
+```
+```
+### Code ScreenShots:
+#### CustomArrayList.java:
+![CustomArrayList_ss1](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-03/ScreenShots/Code/customArrayList_ss1.JPG)
+![CustomArrayList_ss2](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-03/ScreenShots/Code/customArrayList_ss2.JPG)
+#### main.java:
+![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-03/ScreenShots/Code/main.JPG)
+### Code Output ScreeenShot:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-03/ScreenShots/Output/output.JPG)
+___
+## [Lab: 04](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/Readme/Lab_04.md)
+Lab Tasks:
+Write a program in java to insert a new node at the middle of Singly Linked List.
+### Code:
+#### main.java:
+```
+package Task;
+
+public class main {
+
+	
+	public static void main(String[] args) {  
+
+		InsertNode sList = new InsertNode();  
+		
+		sList.addNodeAtEnd(1);  
+		sList.addNodeAtEnd(2); 
+		sList.addNodeAtEnd(5); 
+		sList.display();  
+		sList.addInMid(3);  
+		
+		System.out.println("Updated List: ");  
+		
+		sList.display();  
+		sList.addInMid(4);  
+		
+		System.out.println("Updated List: ");  
+		
+		sList.display();
+		
+		System.out.println("Updated List: "); 
+		
+		sList.addAtStart(0);
+		sList.display();
+	
+	}  
+}
+```
+#### InsertNode.java:
+```
+package Task;
+
+public class InsertNode {  
+
+	class Node {  
+		
+		int data;  
+	    Node next;  
+	
+	    public Node(int data) {  
+	
+	    	this.data = data;  
+	    	this.next = null;  
+	    }  
+	}
+	
+	public int size;   
+	public Node head = null;  
+	public Node tail = null;  
+ 
+	public void addAtStart(int data) {  
+	        
+		Node newNode = new Node(data);  
+	
+		if (head == null) {  
+	
+			head = newNode;  
+			tail = newNode;  
+	    }  
+		
+		else {  
+	            
+			Node temp = head;  
+	        head = newNode;   
+	        head.next = temp;  
+	    }  
+	}   
+	
+	public void addNodeAtEnd(int data) {  
+		
+		Node newNode = new Node(data);    
+	
+		if(head == null) {  
+	
+			head = newNode;  
+			tail = newNode;  
+	    }  
+	
+		else {  
+			
+			tail.next = newNode;  
+			tail = newNode;  
+	    }  
+	
+		size++;  
+	}    
+	
+	public void addInMid(int data) {  
+	
+		Node newNode = new Node(data);  
+	
+		if(head == null) {  
+	
+			head = newNode;  
+			tail = newNode;  
+	    }  
+		
+		else {  
+	
+			Node temp, current;  
+			int count = (size % 2 == 0) ? (size/2) : ((size+1)/2);  
+			temp = head;  
+			current = null;  
+	
+			for(int i = 0; i < count; i++) {  
+	
+				current = temp;  
+				temp = temp.next;  
+	        }  
+	
+			current.next = newNode;  
+			newNode.next = temp;  
+	    }  
+	
+		size++;  
+	}   
+	
+	public void display() {  
+	
+		Node current = head;  
+	
+		if(head == null) {  
+	
+			System.out.println("List is empty");  
+			return;  
+	    }  
+	
+		while(current != null) {    
+	
+			System.out.print(current.data + " ");  
+			current = current.next;  
+	    }  
+	
+		System.out.println();  
+	}
+}
+```
+### Code Output:
+```
+```
+#### Code Screen Shot:
+![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/ScreenShots/Code/main.JPG)
+![InsertNode_ss1](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/ScreenShots/Code/InsertNode_ss1.JPG)
+![InsertNode_ss2](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/ScreenShots/Code/InsertNode_ss2.JPG)
+![InsertNode_ss3](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/ScreenShots/Code/InsertNode_ss3.JPG)
+#### Code Output Screen Shot:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-04/ScreenShots/Output/output.JPG)
 ___
