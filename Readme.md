@@ -2,7 +2,7 @@
 ## WordFile (with ScreenShots) : [DSA_Java_Manual.docs]()
 ### Index:
 - ### [Lab-01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
-- ### [Lab-02]()
+- ### [Lab-02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02.md)
 - ### [Lab-03]()
 - ### [Lab-04]()
 - ### [Lab-05]()
