@@ -228,6 +228,7 @@ class Array<E> {
 ### Code ScreenShots:
 #### main.java:
 ![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/ScreenShots/Task_02/Code/main.JPG)
+#### array.java:
 ![array](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/ScreenShots/Task_02/Code/array.JPG)
 ### Code Output ScreenShot:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/ScreenShots/Task_02/Output/output.JPG)
