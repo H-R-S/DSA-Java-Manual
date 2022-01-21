@@ -1,5 +1,5 @@
-# Data Structure & Algorithm Manual Lab: 02 | Task_01 (Solved)
-## [Lab: 02 | Task_02]()
+# Data Structure & Algorithm Manual Lab: 02 | Task_02 (Solved)
+## [Lab: 02 | Task_02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 Lab Tasks 2:
 Develop Generic Class which can set Data type of Single dimension array.
 ### Code:
