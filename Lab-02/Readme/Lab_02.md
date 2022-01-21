@@ -1,9 +1,9 @@
 # Data Structure & Algorithm Manual Lab: 02 (Solved)
 ### Index:
-- ### [Lab-02 | Task_01]()
-- ### [Lab-02 | Task_02]()
+- ### [Lab-02 | Task_01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
+- ### [Lab-02 | Task_02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_02.md)
 ___
-## [Lab: 02 | Task_01]()
+## [Lab: 02 | Task_01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 Lab Tasks 1:
 •	Develop Method in java which can find the smallest and the largest value from integer Array.
 o	int[] TwoExtreamValue(int A[]).
@@ -152,7 +152,7 @@ public class main {
 ### Code Output Screen Shot:
 ![output]()
 ___
-## [Lab: 02 | Task_02]()
+## [Lab: 02 | Task_02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 Lab Tasks 2:
 Develop Generic Class which can set Data type of Single dimension array.
 ### Code:
