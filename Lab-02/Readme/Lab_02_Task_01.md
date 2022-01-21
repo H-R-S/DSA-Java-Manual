@@ -1,5 +1,5 @@
 # Data Structure & Algorithm Manual Lab: 02 | Task_01 (Solved)
-## [Lab: 02 | Task_01]()
+## [Lab: 02 | Task_01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02_Task_01.md)
 Lab Tasks 1:
 •	Develop Method in java which can find the smallest and the largest value from integer Array.
 o	int[] TwoExtreamValue(int A[]).
