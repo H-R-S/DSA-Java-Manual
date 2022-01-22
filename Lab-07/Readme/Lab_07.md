@@ -1,5 +1,5 @@
 # Data Structure & Algorithm Manual Lab: 07 (Solved)
-## [Lab-07](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/Readme/Lab_07.md)
+## [Lab: 07](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/Readme/Lab_07.md)
 Task 1:
 Write a java program to sort the array by using bubble sort and selection sort.
 ### Code:
