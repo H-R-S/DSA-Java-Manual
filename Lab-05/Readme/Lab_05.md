@@ -119,6 +119,9 @@ public class reverse {
 	}
 }
 ```
+### Code Output:
+```
+```
 ### Code ScreenShots:
 #### main.java:
 ![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-05/ScreenShots/Task_b/Code/main.JPG)
