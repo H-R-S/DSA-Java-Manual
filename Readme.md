@@ -1094,11 +1094,289 @@ public class reverse {
 	}
 }
 ```
+### Code Output:
+```
+```
 ### Code ScreenShots:
 #### main.java:
 ![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-05/ScreenShots/Task_b/Code/main.JPG)
-#### power.java:
+#### reverse.java:
 ![reverse](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-05/ScreenShots/Task_b/Code/reverse.JPG)
 ### Code Output ScreenShots:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-05/ScreenShots/Task_b/Output/output.JPG)
+___
+## [Lab: 06](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/Readme/Lab_06.md)
+Lab Tasks:
+Implement Stack using Linked List.
+### Code:
+#### main.java:
+```
+package Task;
+
+public class main {
+	
+	public static void main(String args[]) {
+		
+        stack_using_linkedList lls = new stack_using_linkedList();
+        
+        lls.push(20);
+        lls.push(50);
+        lls.push(80);
+        lls.push(40);
+        lls.push(60);
+        lls.push(75);
+        
+        System.out.println("Element removed from LinkedList: "+lls.pop());
+        System.out.println("Element removed from LinkedList: "+lls.pop());
+        
+        lls.push(10);
+        
+        System.out.println("Element removed from LinkedList: "+lls.pop());
+        
+        lls.printList(lls.head);
+    }
+}
+```
+#### stack_using_linkedList.java:
+```
+package Task;
+
+public class stack_using_linkedList {
+	
+	public Node head; 
+    
+	public class Node {
+        
+		int value;
+        Node next;
+    }
+ 
+    public stack_using_linkedList() {
+        
+    	head = null;
+    }
+    
+    public int pop() throws LinkedListEmptyException {
+        
+    	if (head == null) {
+            
+    		throw new LinkedListEmptyException();
+        }
+        
+    	int value = head.value;
+        head = head.next;
+        return value;
+    }
+    
+    public void push(int value) {
+        
+    	Node oldHead = head;
+        head = new Node();
+        head.value = value;
+        head.next = oldHead;
+    }
+ 
+    public static void printList(Node head) {
+        
+    	Node temp = head;
+        
+    	while (temp != null) {
+            
+    		System.out.format("%d ", temp.value);
+            temp = temp.next;
+        }
+        
+    	System.out.println();
+    }
+}
+```
+#### LinkedListisEmptyException.java:
+```
+package Task;
+
+public class LinkedListEmptyException extends RuntimeException {
+    
+	private static final long serialVersionUID = 1L;
+ 
+    public LinkedListEmptyException() {
+        
+    	super();
+    }
+ 
+    public LinkedListEmptyException(String message) {
+        
+    	super(message);
+    }
+}
+```
+### Code Output:
+```
+```
+### Code ScreenShots:
+#### main.java:
+![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/ScreenShots/Task/Code/main.JPG)
+#### stack_using_linkedList.java:
+![stack_using_linkedList_ss1](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/ScreenShots/Task/Code/stack_using_linkedList_ss1.JPG)
+![stack_using_linkedList_ss2](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/ScreenShots/Task/Code/stack_using_linkedList_ss2.JPG)
+#### LinkedListEmptyException.java:
+![LinkedListEmptyException](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/ScreenShots/Task/Code/LinkedListEmptyException.JPG)
+### Code Output ScreenShots:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-06/ScreenShots/Task/Output/output.JPG)
+___
+## [Lab: 07](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/Readme/Lab_07.md)
+Task 1:
+Write a java program to sort the array by using bubble sort and selection sort.
+### Code:
+#### main.java:
+```
+package Task;
+
+public class main {
+	
+	public static void main(String[] args) {  
+		
+		BubbleSort bs = new BubbleSort();
+        
+		int arr[] ={3,60,35,2,45,320,5};  
+        
+		System.out.println("\nArray Before Bubble Sort\n");  
+        
+		for(int i=0; i < arr.length; i++) {  
+        
+			System.out.print(arr[i] + " ");  
+        }  
+        
+		System.out.println();  
+        
+		bs.bubbleSort(arr); 
+        
+		System.out.println("\nArray After Bubble Sort\n");  
+        
+		for(int i=0; i < arr.length; i++) {  
+        
+			System.out.print(arr[i] + " ");  
+        }
+	} 
+}  
+```
+#### BubbleSort.java:
+```
+package Task;
+
+public class BubbleSort {
+	 
+    public static void bubbleSort(int[] arr) {  
+        
+    	int n = arr.length;  
+        int temp = 0;  
+        
+        for(int i=0; i < n; i++) {  
+        
+        	for(int j=1; j < (n-i); j++) {  
+            
+        		if(arr[j-1] > arr[j]) {  
+                 
+        			temp = arr[j-1];  
+                    arr[j-1] = arr[j];  
+                    arr[j] = temp;  
+        		}  
+        	}   
+        }   
+    }
+}
+```
+### Code Output:
+```
+```
+### Code ScreenShots:
+#### main.java:
+![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/ScreenShots/Task/Code/main.JPG)
+#### BubbleSort.java:
+![BubbleSort](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/ScreenShots/Task/Code/BubbleSort.JPG)
+### Code Output ScreenShots:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-07/ScreenShots/Task/Output/output.jpg)
+___
+## [Lab: 08](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-08/Readme/Lab_08.md)
+```diff
+- No Task & Assignment in Lab-08.
+```
+___
+## [Lab: 09](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/Readme/Lab_09.md)
+Task # 1: 
+Implement Pre-order traversal in java.
+### Code:
+#### main.java:
+```
+package Task;
+
+public class main {
+	
+	public static void main(String[] args) {
+	    
+		Tree tree = new Tree();
+	
+		tree.root = new Node(1);
+		tree.root.left = new Node(12);
+		tree.root.right = new Node(9);
+		tree.root.left.left = new Node(5);
+		tree.root.left.right = new Node(6);
+	
+		System.out.println("\nPreorder traversal ");
+	
+		tree.preorder(tree.root);
+	}
+}
+```
+#### Node.java:
+```
+package Task;
+
+public class Node {
+	
+	int item;
+	Node left, right;
+	
+	public Node(int key) {
+	
+		item = key;
+		left = right = null;
+	}
+}
+```
+#### Tree.java:
+```
+package Task;
+
+public class Tree {
+	
+	Node root;
+	
+	Tree() {
+	
+		root = null;
+	}
+	
+	void preorder(Node node) {
+	
+		if (node == null)
+	
+			return;
+	    System.out.print(node.item + "->");
+	    preorder(node.left);
+	    preorder(node.right);
+	}
+}
+```
+### Code Output:
+```
+```
+### Code ScreenShots:
+#### main.java:
+![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/ScreenShots/Task/Code/main.jpg)
+#### Node.java:
+![Node](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/ScreenShots/Task/Code/Node.jpg)
+#### Tree.java:
+![Tree](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/ScreenShots/Task/Code/Tree.jpg)
+### Code Output ScreenShots:
+![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/ScreenShots/Task/Output/output.png)
 ___
