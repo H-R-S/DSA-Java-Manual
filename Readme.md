@@ -1380,3 +1380,8 @@ public class Tree {
 ### Code Output ScreenShots:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-09/ScreenShots/Task/Output/output.png)
 ___
+## [Lab: 10](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-10/Readme/Lab_10.md)
+```diff
+- No Task & Assignment in Lab-10.
+```
+___
