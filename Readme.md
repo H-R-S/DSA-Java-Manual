@@ -1,5 +1,5 @@
 # Data Structure & Algorithm Manual (Solved)
-## WordFile (with ScreenShots) : [DSA_Java_Manual.docs]()
+## WordFile (with ScreenShots) : [DSA_Java_Manual.docs](https://github.com/H-R-S/DSA-Java-Manual/blob/main/WordFile/HRS_Data%20Structure%20%26%20Algorithm%20Manual%20(Solved)_WordFile.docx)
 ### Index:
 - ### [Lab-01](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-01/Readme/Lab_01.md)
 - ### [Lab-02](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-02/Readme/Lab_02.md)
