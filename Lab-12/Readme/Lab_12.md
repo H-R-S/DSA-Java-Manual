@@ -196,7 +196,7 @@ public class HashTable {
 ```
 ```
 ### Code ScreenShots:
-#### ConvertBTtotBST.java:
+#### HashTable.java:
 ![HashTable_ss1](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-12/ScreenShots/Task/Code/HashTable_ss1.JPG)
 ![HashTable_ss2](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-12/ScreenShots/Task/Code/HashTable_ss2.JPG)
 ![HashTable_ss3](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-12/ScreenShots/Task/Code/HashTable_ss3.JPG)
