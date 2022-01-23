@@ -1557,7 +1557,7 @@ public class ConvertBTtoBST {
 ```
 ### Code ScreenShots:
 #### main.java:
-![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-11/ScreenShots/Task/Code/main.jpg)
+![main](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-11/ScreenShots/Task/Code/main.JPG)
 #### ConvertBTtotBST.java:
 ![ConvertBTtotBST_ss1](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-11/ScreenShots/Task/Code/ConvertBTtotBST_ss1.JPG)
 ![ConvertBTtotBST_ss2](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-11/ScreenShots/Task/Code/ConvertBTtotBST_ss2.JPG)
