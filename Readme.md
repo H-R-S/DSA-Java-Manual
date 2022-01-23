@@ -1822,9 +1822,8 @@ public class Hashing {
 ### Code Output ScreenShots:
 ![output](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-13/ScreenShots/Task/Output/output.JPG)
 ___
-# Data Structure & Algorithm Manual Lab: 10 (Solved)
-## [Lab: 10](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-10/Readme/Lab_10.md)
+## [Lab: 14](https://github.com/H-R-S/DSA-Java-Manual/blob/main/Lab-14/Readme/Lab_14.md)
 ```diff
-- No Task & Assignment in Lab-10.
+- No Task & Assignment in Lab-14.
 ```
 ___
