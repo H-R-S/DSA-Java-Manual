@@ -1051,6 +1051,13 @@ public class InsertNode {
 ```
 ### Code Output:
 ```
+1 2 5 
+Updated List: 
+1 2 3 5 
+Updated List: 
+1 2 4 3 5 
+Updated List: 
+0 1 2 4 3 5 
 ```
 ### Code Screen Shot:
 #### main.java:
