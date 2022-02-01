@@ -63,6 +63,9 @@ public class power {
 ```
 ### Code Output:
 ```
+Enter a number: 3
+Enter power: 3
+3^3 = 27
 ```
 ### Code ScreenShots:
 #### main.java:
