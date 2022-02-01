@@ -67,6 +67,9 @@ public class power {
 ```
 ### Code Output:
 ```
+Enter a number: 3
+Enter power: 3
+3^3 = 27
 ```
 ### Code ScreenShots:
 #### main.java:
@@ -121,6 +124,8 @@ public class reverse {
 ```
 ### Code Output:
 ```
+Enter String: Haris 51379
+Reverse String is: 97315 siraH 
 ```
 ### Code ScreenShots:
 #### main.java:
