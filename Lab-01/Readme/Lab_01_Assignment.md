@@ -282,6 +282,46 @@ public class CarPark {
 ```
 ### Code Output:
 ```
+The color of this vehicle is red
+The model of this vehicle is Z4
+The transmission for this vehicle is Auto
+The number of wheels in this vehicle is 4
+++++++++++++ 
+
+The color of this vehicle is Light Blue
+The model of this vehicle is i30
+The transmission for this vehicle is Auto
+The number of wheels in this vehicle is 4
+++++++++++++ 
+
+The color of this vehicle is Black
+The model of this vehicle is XTR
+The transmission for this vehicle is na
+The number of wheels in this vehicle is 2
+++++++++++++ 
+
+No. of Parked vehicles: 3
+No. of Available Spots: 0
+====================
+
+List of All Parked Vehicles is as folows: 
+The color of this vehicle is red
+The model of this vehicle is Z4
+The transmission for this vehicle is Auto
+The number of wheels in this vehicle is 4
+++++++++++++++++ 
+
+The color of this vehicle is Light Blue
+The model of this vehicle is i30
+The transmission for this vehicle is Auto
+The number of wheels in this vehicle is 4
+++++++++++++++++ 
+
+The color of this vehicle is Black
+The model of this vehicle is XTR
+The transmission for this vehicle is na
+The number of wheels in this vehicle is 2
+++++++++++++++++ 
 ```
 ### Code Screen Shots:
 #### CarParManagement.java
