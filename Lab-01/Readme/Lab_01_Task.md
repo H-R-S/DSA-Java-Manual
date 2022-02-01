@@ -107,6 +107,35 @@ public class IU_Mark_Sheet {
 ```
 ### Code Output:
 ```
+Enter Student Name: 
+Muhammad Haris
+Enter Student Registration Number : 
+51379
+Enter Subject Name : 
+DSA
+Enter Max Marks : 
+100
+Enter Obtained Marks : 
+92
+
+
+__________________________________________________________
+
+
+		 IQRA UNIVERSITY MARK SHEET
+		 
+
+NAME : Muhammad Haris
+Registration Number : 51379
+
+
+
+SUBJECT		MAX MARKS 	OBTAINED MARKS 	GPA
+
+DSA		100.0		92.0		4.0
+
+
+___________________________________________________________
 ```
 ### Code Screen Shots:
 #### main.java:
