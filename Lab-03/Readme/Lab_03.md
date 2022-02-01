@@ -128,6 +128,23 @@ public class main {
 ```
 ### Code Output:
 ```
+1st Reference Variable ArrayList: 
+Size of List: 4
+Value 3 contains in List: true
+Removed Value: 3
+Value 2 presents at 1 index
+	Value[0]: 1
+	Value[1]: 2
+	Value[2]: 4
+2nd Reference Variable: 
+Size of List: 4
+Haris contains in List: true
+Removed Value: Ali
+Shivam presents at 2 index
+	 Name[0]: Muhammad
+	 Name[1]: Haris
+	 Name[2]: Ahmed
+
 ```
 ### Code ScreenShots:
 #### CustomArrayList.java:
