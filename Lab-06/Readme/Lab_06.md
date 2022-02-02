@@ -104,6 +104,10 @@ public class LinkedListEmptyException extends RuntimeException {
 ```
 ### Code Output:
 ```
+Element removed from LinkedList: 75
+Element removed from LinkedList: 60
+Element removed from LinkedList: 10
+40 80 50 20
 ```
 ### Code ScreenShots:
 #### main.java:
