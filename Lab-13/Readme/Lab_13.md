@@ -42,6 +42,9 @@ public class Hashing {
 
 ### Code Output:
 ```
+[1, 2, 3]
+HashSet is not empty
+Removed all elements
 ```
 ### Code ScreenShots:
 #### Hashing.java:
