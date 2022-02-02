@@ -1479,6 +1479,8 @@ public class Tree {
 ```
 ### Code Output:
 ```
+Preorder traversal 
+1->12->5->6->9->
 ```
 ### Code ScreenShots:
 #### main.java:
