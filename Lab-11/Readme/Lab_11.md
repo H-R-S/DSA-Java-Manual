@@ -168,6 +168,10 @@ public class ConvertBTtoBST {
 
 ### Code Output:
 ```
+Inorder representation of binary tree: 
+70 5 3 15 10 20 90 60 16 
+Inorder representation of resulting binary search tree: 
+3 5 10 15 16 20 60 70 90 
 ```
 ### Code ScreenShots:
 #### main.java:
