@@ -1138,9 +1138,7 @@ public class power {
 ```
 ### Code Output:
 ```
-Enter a number: 3
-Enter power: 3
-3^3 = 27
+
 ```
 ### Code ScreenShots:
 #### main.java:
@@ -1312,6 +1310,10 @@ public class LinkedListEmptyException extends RuntimeException {
 ```
 ### Code Output:
 ```
+Element removed from LinkedList: 75
+Element removed from LinkedList: 60
+Element removed from LinkedList: 10
+40 80 50 20
 ```
 ### Code ScreenShots:
 #### main.java:
